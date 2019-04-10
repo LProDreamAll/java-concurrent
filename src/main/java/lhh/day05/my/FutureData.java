@@ -1,4 +1,4 @@
-package lhh.day05;
+package lhh.day05.my;
 
 public class FutureData implements Data {
 
